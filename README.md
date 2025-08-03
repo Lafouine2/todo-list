@@ -1,5 +1,5 @@
-Mini to-do list à l'aide du HTML,CSS et du JAVASCRIPT 
-fonctionnalités :
+Mini to-do list à l'aide du HTML,CSS et du JAVASCRIPT. 
+Fonctionnalités :
 - Ajout des tâches
 - Modification des tâches
 - Suppression des tâches
